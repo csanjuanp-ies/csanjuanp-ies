@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @csanjuanp-ies
-- 🌱 I’m currently learning Big data and Microservices
+- 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: csanjuanp.ies@gmail.com
-
